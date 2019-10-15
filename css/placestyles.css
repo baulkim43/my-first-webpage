@@ -1,0 +1,15 @@
+h1 {
+  color: pink;
+  font-family: fantasy;
+  font-size: 40 px;
+  text-align: center;
+  line-height: inherit;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
