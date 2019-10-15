@@ -1,0 +1,36 @@
+h1 {
+  color: green;
+  font-family: monospace;
+  font-size: 45 px;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+h2 {
+  color: green;
+  font-family: monospace;
+  font-size: 45 px;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+h3 {
+  color: green;
+  font-family: monospace;
+  font-size: 45 px;
+  text-decoration: line-through;
+  text-align: center;
+}
+
+p {
+  color: blue;
+  font-family: monospace;
+  font-size: 20 px;
+  text-align: center;
+}
+
+li {
+  color: red;
+  font-family: monospace;
+  text-align: center;
+}
